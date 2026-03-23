@@ -1,0 +1,42 @@
+{
+  "name": "@gonzih/skills-immigration",
+  "version": "1.0.0",
+  "description": "Immigration law skills for Claude Code — case summaries, client letters, RFE responses, and visa briefs for immigration attorneys.",
+  "main": "install.js",
+  "scripts": {
+    "postinstall": "node install.js",
+    "preuninstall": "node install.js uninstall"
+  },
+  "files": [
+    "skills/",
+    "install.js",
+    "llms.txt",
+    "README.md"
+  ],
+  "keywords": [
+    "claude-code",
+    "skill",
+    "agent-skill",
+    "ai-assistant",
+    "immigration",
+    "immigration-law",
+    "attorney",
+    "uscis",
+    "visa",
+    "rfe",
+    "legal"
+  ],
+  "author": "Maksim Soltan <gonzih@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzih/skills-immigration.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gonzih/skills-immigration/issues"
+  },
+  "homepage": "https://github.com/gonzih/skills-immigration#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

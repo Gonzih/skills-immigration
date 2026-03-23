@@ -1,0 +1,17 @@
+# skills-immigration
+
+Immigration law skills for Claude Code.
+
+## Skills
+
+### case-summary
+Write structured immigration case summaries for attorneys. Synthesizes facts, procedural history, current status, legal issues, and recommended next steps.
+
+### client-letter
+Write plain-language client status letters. Translates USCIS notices and case developments into jargon-free language for non-attorney clients.
+
+### rfie-response
+Write responses to USCIS Requests for Evidence (RFEs). Structures legal arguments, organizes evidence, and drafts the attorney cover letter/brief.
+
+### visa-brief
+Write visa category analysis briefs. Evaluates client facts against eligibility criteria and produces a structured strategy memo with recommended pathways.
