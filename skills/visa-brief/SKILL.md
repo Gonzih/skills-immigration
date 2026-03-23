@@ -110,6 +110,14 @@ Produce a structured visa brief:
 
 ---
 
+## Live Data Sources
+
+- **USCIS Policy Manual** — uscis.gov/policy-manual (public, structured by volume/chapter; use to verify current eligibility standards and agency interpretation)
+- **State Department Visa Bulletin** — travel.state.gov RSS/API (monthly priority date cutoffs for employment- and family-based preference categories; critical for retrogression analysis)
+- **USCIS Processing Times** — egov.uscis.gov/processing-times API (current form-level processing time data by field office and service center; use for timeline estimates in Step 3)
+
+---
+
 ## Important Legal Notice
 
 > **IMPORTANT**: This output is a drafting aid for licensed immigration attorneys. Visa eligibility is fact-specific and subject to change. The attorney of record must independently verify all legal standards, current processing times, and Visa Bulletin cutoff dates before advising the client. This tool does not constitute legal advice.

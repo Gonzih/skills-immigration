@@ -1,6 +1,6 @@
 {
   "name": "@gonzih/skills-immigration",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Immigration law skills for Claude Code — case summaries, client letters, RFE responses, and visa briefs for immigration attorneys.",
   "main": "install.js",
   "scripts": {

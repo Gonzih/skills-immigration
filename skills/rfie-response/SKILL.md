@@ -85,6 +85,14 @@ Produce:
 
 ---
 
+## Live Data Sources
+
+- **USCIS Adjudicator's Field Manual** — public excerpts available via uscis.gov (authoritative internal guidance used by officers; cite relevant chapters to frame legal arguments in Step 3)
+- **AAO Precedent Decisions Database** — uscis.gov/laws-and-policy/case-law (Administrative Appeals Office non-precedent and precedent decisions; use in Step 2 to map binding authority to each RFE issue)
+- **Immigration Court / PACER Patterns** — public EOIR data and PACER (immigration court decisions and circuit patterns; use to identify applicable circuit authority for removal defense or complex RFE responses)
+
+---
+
 ## Important Legal Notice
 
 > **IMPORTANT**: This output is a drafting aid. The attorney of record must review all content for legal accuracy, cite-check all case citations, and ensure all factual assertions are supported by actual evidence before filing with USCIS. This tool does not constitute legal advice.

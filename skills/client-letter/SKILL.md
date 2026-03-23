@@ -74,6 +74,14 @@ Produce two versions:
 
 ---
 
+## Live Data Sources
+
+- **USCIS Form Instructions** — uscis.gov forms API (current instructions and requirements per form; use to confirm what supporting documents are needed for each filing type)
+- **Embassy Document Requirements by Country** — travel.state.gov (country-specific visa and document checklists; use when the client letter involves consular processing or embassy appointments)
+- **I-94 Travel History** — i94.cbp.dhs.gov (CBP's public lookup for arrival/departure records; reference for advising clients on their travel history and authorized stay periods)
+
+---
+
 ## Important Legal Notice
 
 > **IMPORTANT**: This output is a drafting aid. The attorney of record must review all content for factual accuracy, legal correctness, and appropriate advice before sending to the client. This tool does not constitute legal advice.
