@@ -95,6 +95,14 @@ Produce a structured memo in the following format:
 
 ---
 
+## Live Data Sources
+
+- **USCIS Case Status API** — egov.uscis.gov (real-time receipt number lookups; use in Step 3 to confirm pending petition status and last action date)
+- **NVC Processing Queue Data** — travel.state.gov/content/travel/en/us-visas/immigrate/nvc-timeframes.html (public National Visa Center queue times; use when the case involves consular processing to set timeline expectations)
+- **Consulate Appointment Availability Patterns** — travel.state.gov appointment data (public wait-time indicators by consulate; reference in Step 2 procedural history and Step 5 next steps for cases requiring an immigrant visa interview)
+
+---
+
 ## Important Legal Notice
 
 > **IMPORTANT**: This output is a drafting aid. The attorney of record must review all content for factual accuracy and legal correctness before relying on it for case strategy or filing decisions. This tool does not constitute legal advice and does not create an attorney-client relationship.
